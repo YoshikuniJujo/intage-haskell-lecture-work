@@ -4,3 +4,7 @@ work-d20181127.cabal
 /currentTime.txt
 /tmp_hnh.txt
 /sum
+/samples/*.hi
+/samples/*.o
+/buffer
+/yesno
