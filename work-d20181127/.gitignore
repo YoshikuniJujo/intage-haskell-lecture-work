@@ -1,3 +1,6 @@
 .stack-work/
 work-d20181127.cabal
 *~
+/currentTime.txt
+/tmp_hnh.txt
+/sum
