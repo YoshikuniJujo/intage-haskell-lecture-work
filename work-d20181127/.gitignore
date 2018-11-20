@@ -8,3 +8,4 @@ work-d20181127.cabal
 /samples/*.o
 /buffer
 /yesno
+/hello
